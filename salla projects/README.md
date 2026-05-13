@@ -17,13 +17,13 @@ The dashboard provides visual insights that help understand trends, customer beh
 ## 📷 Dashboard Preview
 
 ### Screenshot 1
-![Dashboard](./img1.png)
+![Dashboard](./img3.png)
 
 ### Screenshot 2
-![Dashboard](./img2.png)
+![Dashboard](./img1.png)
 
 ### Screenshot 3
-![Dashboard](./img3.png)
+![Dashboard](./img2.png)
 
 ---
 
